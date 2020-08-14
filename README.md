@@ -3,19 +3,20 @@
 **Most commands do not work as they have been stripped out of the game or have been disabled.**
 
 **Some commands that do work are:**
-timescale
-unbindall
-bind
-player_sustainammo
-devmap
-jump_height
-bg_fallDamageMinHeight
-bg_fallDamageMaxHeight
-r_filmTweakInvert
-r_filmTweakEnable
-player_sprintUnlimited
-player_sprintSpeedScale
-cl_freelook
+- timescale
+- unbindall
+- bind
+- player_sustainammo
+- devmap
+- jump_height
+- bg_fallDamageMinHeight
+- bg_fallDamageMaxHeight
+- r_filmTweakInvert
+- r_filmTweakEnable
+- player_sprintUnlimited
+- player_sprintSpeedScale
+- cl_freelook
+
 
 
 **How to use:**
