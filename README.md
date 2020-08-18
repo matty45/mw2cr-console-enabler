@@ -1,3 +1,5 @@
+A tool to allow the ability to execute console commands for Modern Warfare 2 - Campaign Remastered
+
 **This DLL has been tested to work on version 1.1.1279314.**
 
 **Most commands do not work as they have been stripped out of the game or have been disabled.**
