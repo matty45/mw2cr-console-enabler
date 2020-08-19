@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "nuklear",
   "version": "4.03.1",
@@ -6,3 +7,13 @@
   "keywords": ["gl", "ui", "toolkit"],
   "src": ["nuklear.h"]
 }
+=======
+{
+  "name": "nuklear",
+  "version": "4.03.1",
+  "repo": "Immediate-Mode-UI/Nuklear",
+  "description": "A small ANSI C gui toolkit",
+  "keywords": ["gl", "ui", "toolkit"],
+  "src": ["nuklear.h"]
+}
+>>>>>>> c6b52a531aa4e4bbe4328aa06bd29e1562165e61
